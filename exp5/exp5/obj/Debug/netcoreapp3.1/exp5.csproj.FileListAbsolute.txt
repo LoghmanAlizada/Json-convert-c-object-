@@ -1,0 +1,16 @@
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\exp5.exe
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\exp5.deps.json
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\exp5.runtimeconfig.json
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\exp5.runtimeconfig.dev.json
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\exp5.dll
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\exp5.pdb
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.csproj.AssemblyReference.cache
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.AssemblyInfoInputs.cache
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.AssemblyInfo.cs
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.csproj.CoreCompileInputs.cache
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.dll
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.pdb
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.genruntimeconfig.cache
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu79vxcql\Desktop\Examples for C#\exp5\exp5\obj\Debug\netcoreapp3.1\exp5.csproj.CopyComplete
